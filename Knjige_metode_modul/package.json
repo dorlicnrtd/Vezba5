@@ -1,0 +1,22 @@
+{
+  "name": "@dorlicnrtd/knjige_metode_modul",
+  "version": "1.0.0",
+  "description": "Metode za modul-lista knjiga",
+  "main": "index.js",
+  "dependencies": {
+    "@dorlicnrtd/knjige_objekat_modul": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorlicnrtd/Vezba5.git"
+  },
+  "author": "Darijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorlicnrtd/Vezba5/issues"
+  },
+  "homepage": "https://github.com/dorlicnrtd/Vezba5#readme"
+}
