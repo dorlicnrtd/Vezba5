@@ -1,0 +1,19 @@
+{
+  "name": "@dorlicnrtd/knjige_objekat_modul",
+  "version": "1.0.0",
+  "description": "Lista knjiga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorlicnrtd/Vezba5.git"
+  },
+  "author": "Darijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorlicnrtd/Vezba5/issues"
+  },
+  "homepage": "https://github.com/dorlicnrtd/Vezba5#readme"
+}
