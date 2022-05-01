@@ -1,0 +1,14 @@
+{
+  "name": "@dorlicnrtd/testiranje",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darijo",
+  "license": "ISC",
+  "dependencies": {
+    "@dorlicnrtd/knjige_metode_modul": "^1.0.1"
+  }
+}
